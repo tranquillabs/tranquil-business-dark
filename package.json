@@ -1,0 +1,17 @@
+{
+  "keywords": [
+    "Tranquil",
+    "theme",
+    "dark",
+    "business"
+  ],
+  "license": "MIT",
+  "name": "tranquil-business-dark",
+  "repository": "https://github.com/tranquillabs/tranquil-business-dark",
+  "author": { "name": "Tranquil Labs", "url": "https://github.com/tranquillabs" },
+  "theme": "ui",
+  "version": "0.1.0",
+  "engines": {
+    "atom": ">0.40.0"
+  }
+}
