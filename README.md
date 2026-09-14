@@ -10,5 +10,4 @@ share an identical style structure; only `styles/colors.less` differs.
 
 - Sectioned tree-view: dividers between top-level roots only, muted section labels,
   and a rounded accent-tinted pill for the selected entry.
-- Additive sibling to the default `tranquil-theme-dark` — installing this does not
-  change the existing themes.
+- The default dark UI theme shipped with Tranquil Studio.
